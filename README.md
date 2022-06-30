@@ -1,8 +1,8 @@
-# CONFIGURA-O-DJANGO-
+# CONFIGURA-O-DJANGO
 Configuração inicial para ambiente Django
 
 # Passos
-Criar Pasta para o novo Projeto \n
+Criar Pasta para o novo Projeto 
 No Terminal Fedora
  cd documentos
  mkdir Dev
