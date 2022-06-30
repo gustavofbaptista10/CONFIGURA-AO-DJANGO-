@@ -1,4 +1,5 @@
 <html>
+ <body>
 <title>
 CONFIGURA-O-DJANGO 
  </title>
