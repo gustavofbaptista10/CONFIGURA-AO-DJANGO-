@@ -1,4 +1,4 @@
-# CONFIGURA-AO-DJANGO-
+# CONFIGURA-O-DJANGO-
 Configuração inicial para ambiente Django
 
 # Passos
