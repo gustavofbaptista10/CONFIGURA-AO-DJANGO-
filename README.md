@@ -1,7 +1,8 @@
 <html>
 <head>
-<title> # CONFIGURA-O-DJANGO </head>
+# CONFIGURA-O-DJANGO </head>
 <br />
+ <body>
 Configuração inicial para ambiente Django<br />
 
 # Passos <br />
@@ -23,4 +24,5 @@ django-admin startproject <br />
 # Banco de Dados <br />
 python manage.py migrate <br />
 python manage.py runserver <br />
+ </body>
 </html>
