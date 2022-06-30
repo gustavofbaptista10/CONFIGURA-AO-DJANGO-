@@ -1,9 +1,7 @@
 <html>
- <body>
-<title>
-CONFIGURA-O-DJANGO 
- </title>
-<br />
+<body>
+
+# CONFIGURA-O-DJANGO <br />
  <body>
 Configuração inicial para ambiente Django<br />
 
